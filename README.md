@@ -76,9 +76,9 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 
 ## 📩 **Me Contacter**  
 
-📧 **Email** : [ange.khoty@hotmail.com](mailto:ange.khoty@hotmail.com)  
+📧 **[Email](mailto:ange.khoty@hotmail.com)**  
 
-🔗 **LinkedIn** : [linkedin.com/in/khoty-wolie-908116298](https://www.linkedin.com/in/khoty-wolie-908116298/)  
+🔗 **[LinkedIn](https://www.linkedin.com/in/khoty-wolie-908116298/)**  
 
 🚀 N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 🚀  
 
