@@ -66,7 +66,8 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 
 ---
 
-### 🎯 **Projets Personnels**  
+### 🎯 **Projets Personnels** 
+- 🚀 [YOLOv8-Object-Detection](https://github.com/Khoty-WOLIE/YOLOv8-Object-Detection)
 - 🤖 [LLM-LangChain-and-OpenAI](https://github.com/Khoty-WOLIE/LLM-LangChain-and-OpenAI)  
 - 🌐 [Portfolio_Website_Photographer](https://github.com/Khoty-WOLIE/Portfolio_Website_Photographer)  
 - 🔍 [Data_Explorer_Project_1](https://github.com/Khoty-WOLIE/Data_Explorer_Project)  
