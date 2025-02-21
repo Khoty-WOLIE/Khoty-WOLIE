@@ -1,6 +1,6 @@
 # 👋 Hello, je suis Khoty WOLIE !  
 
-## 🏆 Data Scientist | Data Analyst | Business Analyst | Big Data & IA | Machine Learning
+## 🏆 Data Scientist | Data Analyst | Business Analyst | Product Owner | Spécialiste Big Data & IA | Machine Learning
 
 Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Machine Learning et Data Engineering** réalisés dans le cadre de formations et de travaux personnels.
 
