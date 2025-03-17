@@ -29,7 +29,15 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - OCR & Extraction de Texte : Tesseract OCR, Spacy, NLTK
 - Vision par Ordinateur : OpenCV, PIL (Prétraitement d’images, Détection d’objets), SIFT, CNN (ResNet, VGG16, EfficientNet, MobileNet, YOLO)
 - Techniques avancées : Feature Extraction, Transfer Learning, Cosine Similarity
-- Faiss (Recherche d’images similaires en haute dimension)  
+- Faiss (Recherche d’images similaires en haute dimension)
+
+🚀 **Mesures de Performance & Évaluation des Modèles**
+- Machine Learning & Classification : Accuracy, Precision, Recall, F1-score AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR
+- Régression : R² Score, MAE (Mean Absolute Error), RMSE (Root Mean Squared Error)
+- Clustering & Segmentation : Silhouette Score, Dunn Index, Adjusted Rand Index (ARI)
+- NLP : Perplexité, BLEU Score, ROUGE Score
+- Vision par Ordinateur : Top-K Accuracy, IoU (Intersection over Union), Mean Average Precision (MAP)
+- Data Drift & Robustesse des Modèles : Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI pour le suivi du Data Drift et Concept Drift 
 
 ### ☁ **Big Data, Cloud**  
 - Big Data & Cloud Computing : AWS (S3, EMR, IAM, Lambda, Sagemaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark
@@ -42,22 +50,14 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - TensorFlow Serving, TorchServe, ONNX
 
 ### 📦 **Méthodologies de Travail & Gestion de Projet**
-Méthodologies Agile : SCRUM
-Gestion de projet : Jira, Trello, Confluence, Ms-Project
-Conformité & Sécurité : RGPD (protection des données personnelles), IAM (Identity & Access Management) (gestion des accès)
+- Méthodologies Agile : SCRUM
+- Gestion de projet : Jira, Trello, Confluence, Ms-Project
+- Conformité & Sécurité : RGPD (protection des données personnelles), IAM (Identity & Access Management) (gestion des accès)
 
 🌐 **Systèmes d’Exploitation & Outils Divers**
-OS : Linux (Ubuntu, Debian), Windows, macOS
-CRM & Outils d’entreprise : E-Deal CRM, ServiceNow, Espace Pro, SAS
-Tests & Qualité Logicielle : Testlink, HP Quality Center, Serena
-
-🚀 **Mesures de Performance & Évaluation des Modèles**
-- Machine Learning & Classification : Accuracy, Precision, Recall, F1-score AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR
-- Régression : R² Score, MAE (Mean Absolute Error), RMSE (Root Mean Squared Error)
-- Clustering & Segmentation : Silhouette Score, Dunn Index, Adjusted Rand Index (ARI)
-- NLP : Perplexité, BLEU Score, ROUGE Score
-- Vision par Ordinateur : Top-K Accuracy, IoU (Intersection over Union), Mean Average Precision (MAP)
-- Data Drift & Robustesse des Modèles : Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI pour le suivi du Data Drift et Concept Drift 
+- OS : Linux (Ubuntu, Debian), Windows, macOS
+- CRM & Outils d’entreprise : E-Deal CRM, ServiceNow, Espace Pro, SAS
+- Tests & Qualité Logicielle : Testlink, HP Quality Center, Serena
 
 ---
 
