@@ -8,33 +8,58 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 
 ## 🔥 **Mes Compétences**  
 
-### 🔹 **Langages de Programmation**  
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras), R, SQL, NoSQL (MongoDB)  
-- HTML, CSS, Power Query, Excel VBA  
+### 🔹 **Langages de Programmation** 
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras)
+- R (modélisation statistique, visualisation de données)
+- SQL / NoSQL (PostgreSQL, MySQL, MongoDB)
+- HTML, CSS (pour la visualisation des résultats et dashboards interactifs)
+- Excel VBA, Power Query (ETL, automatisation des analyses)
 
-### 📊 **Analyse et Visualisation de Données**  
-- ETL, Power BI, Tableau, Jupyter Notebook, Knime, Streamlit, Google Colab, VS Code  
-- Matplotlib, Seaborn, Dash  
+### 📊 **Analyse et Visualisation de Données**
+- Visualisation : Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium (visualisation cartographique), Power BI, Tableau, Knime, Google Data Studio, Neo4j, Streamlit,
+- Environnements de travail : Jupyter Notebook, VS Code, Google Colab, pycharm
+- Visualisation : Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium (visualisation cartographique)
 
 ### 🤖 **Machine Learning & IA**  
-- Apprentissage supervisé et non supervisé : Régression, Classification, Clustering  
-- NLP (Traitement du langage naturel) : BERT, CountVectorizer, TF-IDF, Word2Vec  
-- Vision par ordinateur : OpenCV, PIL, YOLO, OCR  
-- LLMs : LangChain, Hugging Face  
+Apprentissage Supervisé & Non Supervisé :
+- Régression : Régression Linéaire, Régression Ridge, Lasso, ElasticNet
+- Classification : Logistic Regression, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), SVM, KNN
+- Clustering : K-Means, DBSCAN, Agglomerative Clustering, GMM
+  
+- 📍 NLP (Traitement Automatique du Langage) : TF-IDF, CountVectorizer, Word2Vec, FastText
+- Modèles Avancés : BERT, DeBERTa, GPT, Universal Sentence Encoder (USE)
+- Text Summarization & Classification : Hugging Face Transformers, LangChain
+- OCR & Extraction de Texte : Tesseract OCR, Spacy, NLTK
+- 📍 Vision par Ordinateur : OpenCV, PIL (Prétraitement d’images, Détection d’objets)
+SIFT, CNN (ResNet, VGG16, EfficientNet, MobileNet, YOLO)
+- Techniques avancées : Feature Extraction, Transfer Learning, Cosine Similarity
+Faiss (Recherche d’images similaires en haute dimension)   VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 
 ### ☁ **Big Data, Cloud & Gestion de Projet**  
-- AWS, Microsoft Azure, Google Cloud Platform, Hadoop, PySpark, Databricks  
-- Git, GitHub, Docker, CI/CD (Jenkins, GitLab)  
-- Méthodologies Agile (SCRUM), RGPD  
+Big Data & Cloud Computing : AWS (S3, EMR, IAM, Lambda, Sagemaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark
+Gestion des flux de données : Kafka, Apache Airflow, Spark Streaming
+Déploiement & MLOps : Docker, CI/CD (Jenkins, GitHub Actions, GitLab CI/CD), MLflow, DVC, Evidently AI (monitoring des modèles)
 
-### 🛠 **Logiciels et Outils**  
-- CRM (E-deal), Espace Pro, SAS, Jira, Trello, Confluence, ServiceNow, Ms-Project  
+### 🤖 **Déploiement d’Applications & API**
+FastAPI, Flask, Streamlit, Dash (déploiement d’APIs et dashboards interactifs), Docker & Kubernetes (AKS, EKS, GKE), TensorFlow Serving, TorchServe, ONNX
 
-### 💻 **Systèmes d’Exploitation**  
-- Linux (Ubuntu), Windows, macOS  
+### 📦 **Méthodologies de Travail & Gestion de Projet**
+Méthodologies Agile : SCRUM
+Gestion de projet : Jira, Trello, Confluence, Ms-Project
+Conformité & Sécurité : RGPD (protection des données personnelles), IAM (Identity & Access Management) (gestion des accès)
 
-### ✅ **Tests & Recette**  
-- Testlink, Serena, HP-Quality Center  
+🌐 **Systèmes d’Exploitation & Outils Divers**
+OS : Linux (Ubuntu, Debian), Windows, macOS
+CRM & Outils d’entreprise : E-Deal CRM, ServiceNow, Espace Pro, SAS
+Tests & Qualité Logicielle : Testlink, HP Quality Center, Serena
+
+🚀 **Mesures de Performance & Évaluation des Modèles**
+- Machine Learning & Classification : Accuracy, Precision, Recall, F1-score AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR
+- Régression : R² Score, MAE (Mean Absolute Error), RMSE (Root Mean Squared Error)
+- Clustering & Segmentation : Silhouette Score, Dunn Index, Adjusted Rand Index (ARI)
+- NLP : Perplexité, BLEU Score, ROUGE Score
+- Vision par Ordinateur : Top-K Accuracy, IoU (Intersection over Union), Mean Average Precision (MAP)
+- Data Drift & Robustesse des Modèles : Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI pour le suivi du Data Drift et Concept Drift 
 
 ---
 
