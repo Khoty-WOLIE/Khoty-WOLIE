@@ -31,13 +31,20 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - Techniques avancées : Feature Extraction, Transfer Learning, Cosine Similarity
 - Faiss (Recherche d’images similaires en haute dimension)
 
-🚀 **Mesures de Performance & Évaluation des Modèles**
+### 🚀 **Mesures de Performance & Évaluation des Modèles**
 - Machine Learning & Classification : Accuracy, Precision, Recall, F1-score, AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR
 - Régression : R² Score, MAE (Mean Absolute Error), RMSE (Root Mean Squared Error)
 - Clustering & Segmentation : Silhouette Score, Dunn Index, Adjusted Rand Index (ARI)
 - NLP : Perplexité, BLEU Score, ROUGE Score
 - Vision par Ordinateur : Top-K Accuracy, IoU (Intersection over Union), Mean Average Precision (MAP)
-- Data Drift & Robustesse des Modèles : Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI pour le suivi du Data Drift et Concept Drift 
+- Data Drift & Robustesse des Modèles : Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI pour le suivi du Data Drift et Concept Drift
+
+🛠 **Tests Statistiques et Analyses de Variance**
+- Test ANOVA (Comparaison de moyennes entre plusieurs groupes)
+- Test de Spearman (stats.spearmanr) (Corrélation non paramétrique)
+- Test d’égalité des variances (stats.levene) (Homogénéité des variances)
+- Test de normalité de Shapiro-Wilk (shapiro) (Normalité des distributions)
+- Test de corrélation de Pearson (pearsonr) (Corrélation linéaire)
 
 ### ☁ **Big Data, Cloud**  
 - Big Data & Cloud Computing : AWS (S3, EMR, IAM, Lambda, Sagemaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark
