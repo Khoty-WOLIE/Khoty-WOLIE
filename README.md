@@ -17,7 +17,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 
 ### 📊 **Analyse et Visualisation de Données**
 - Visualisation : Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium (visualisation cartographique), Power BI, Tableau, Knime, Google Data Studio, Neo4j, Streamlit,
-- Environnements de travail : Jupyter Notebook, VS Code, Google Colab, pycharm
+- Environnements de travail : Jupyter Notebook, VS Code, Google Colab, Pycharm
 - Visualisation : Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium (visualisation cartographique)
 
 ### 🤖 **Machine Learning & IA**  
