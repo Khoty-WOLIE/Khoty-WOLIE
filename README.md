@@ -32,7 +32,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - Faiss (Recherche d’images similaires en haute dimension)
 
 🚀 **Mesures de Performance & Évaluation des Modèles**
-- Machine Learning & Classification : Accuracy, Precision, Recall, F1-score AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR
+- Machine Learning & Classification : Accuracy, Precision, Recall, F1-score, AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR
 - Régression : R² Score, MAE (Mean Absolute Error), RMSE (Root Mean Squared Error)
 - Clustering & Segmentation : Silhouette Score, Dunn Index, Adjusted Rand Index (ARI)
 - NLP : Perplexité, BLEU Score, ROUGE Score
