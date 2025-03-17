@@ -37,7 +37,9 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - Déploiement & MLOps : Docker, CI/CD (Jenkins, GitHub Actions, GitLab CI/CD), MLflow, DVC, Evidently AI (monitoring des modèles)
 
 ### 🤖 **Déploiement d’Applications & API**
-FastAPI, Flask, Streamlit, Dash (déploiement d’APIs et dashboards interactifs), Docker & Kubernetes (AKS, EKS, GKE), TensorFlow Serving, TorchServe, ONNX
+- FastAPI, Flask, Streamlit, Dash (déploiement d’APIs et dashboards interactifs) 
+- Docker & Kubernetes (AKS, EKS, GKE) 
+- TensorFlow Serving, TorchServe, ONNX
 
 ### 📦 **Méthodologies de Travail & Gestion de Projet**
 Méthodologies Agile : SCRUM
