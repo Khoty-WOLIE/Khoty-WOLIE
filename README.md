@@ -30,10 +30,9 @@ Apprentissage Supervisé & Non Supervisé :
 - Modèles Avancés : BERT, DeBERTa, GPT, Universal Sentence Encoder (USE)
 - Text Summarization & Classification : Hugging Face Transformers, LangChain
 - OCR & Extraction de Texte : Tesseract OCR, Spacy, NLTK
-- 📍 Vision par Ordinateur : OpenCV, PIL (Prétraitement d’images, Détection d’objets)
-SIFT, CNN (ResNet, VGG16, EfficientNet, MobileNet, YOLO)
+- 📍 Vision par Ordinateur : OpenCV, PIL (Prétraitement d’images, Détection d’objets), SIFT, CNN (ResNet, VGG16, EfficientNet, MobileNet, YOLO)
 - Techniques avancées : Feature Extraction, Transfer Learning, Cosine Similarity
-Faiss (Recherche d’images similaires en haute dimension)   VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+- Faiss (Recherche d’images similaires en haute dimension)  
 
 ### ☁ **Big Data, Cloud & Gestion de Projet**  
 Big Data & Cloud Computing : AWS (S3, EMR, IAM, Lambda, Sagemaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark
