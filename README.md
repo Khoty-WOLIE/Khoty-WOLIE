@@ -19,17 +19,15 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - Visualisation : Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium (visualisation cartographique), Power BI, Tableau, Knime, Google Data Studio, Neo4j, Streamlit,
 - Environnements de travail : Jupyter Notebook, VS Code, Google Colab, Pycharm
 
-### 🤖 **Machine Learning & IA**  
-Apprentissage Supervisé & Non Supervisé :
+### 🤖 **Machine Learning & IA (Apprentissage Supervisé & Non Supervisé)**  
 - Régression : Régression Linéaire, Régression Ridge, Lasso, ElasticNet
 - Classification : Logistic Regression, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), SVM, KNN
 - Clustering : K-Means, DBSCAN, Agglomerative Clustering, GMM
-  
-- 📍 NLP (Traitement Automatique du Langage) : TF-IDF, CountVectorizer, Word2Vec, FastText
+- NLP (Traitement Automatique du Langage) : TF-IDF, CountVectorizer, Word2Vec, FastText
 - Modèles Avancés : BERT, DeBERTa, GPT, Universal Sentence Encoder (USE)
 - Text Summarization & Classification : Hugging Face Transformers, LangChain
 - OCR & Extraction de Texte : Tesseract OCR, Spacy, NLTK
-- 📍 Vision par Ordinateur : OpenCV, PIL (Prétraitement d’images, Détection d’objets), SIFT, CNN (ResNet, VGG16, EfficientNet, MobileNet, YOLO)
+- Vision par Ordinateur : OpenCV, PIL (Prétraitement d’images, Détection d’objets), SIFT, CNN (ResNet, VGG16, EfficientNet, MobileNet, YOLO)
 - Techniques avancées : Feature Extraction, Transfer Learning, Cosine Similarity
 - Faiss (Recherche d’images similaires en haute dimension)  
 
