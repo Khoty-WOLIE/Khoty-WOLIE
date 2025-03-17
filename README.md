@@ -32,9 +32,9 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - Faiss (Recherche d’images similaires en haute dimension)  
 
 ### ☁ **Big Data, Cloud**  
-Big Data & Cloud Computing : AWS (S3, EMR, IAM, Lambda, Sagemaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark
-Gestion des flux de données : Kafka, Apache Airflow, Spark Streaming
-Déploiement & MLOps : Docker, CI/CD (Jenkins, GitHub Actions, GitLab CI/CD), MLflow, DVC, Evidently AI (monitoring des modèles)
+- Big Data & Cloud Computing : AWS (S3, EMR, IAM, Lambda, Sagemaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark
+- Gestion des flux de données : Kafka, Apache Airflow, Spark Streaming
+- Déploiement & MLOps : Docker, CI/CD (Jenkins, GitHub Actions, GitLab CI/CD), MLflow, DVC, Evidently AI (monitoring des modèles)
 
 ### 🤖 **Déploiement d’Applications & API**
 FastAPI, Flask, Streamlit, Dash (déploiement d’APIs et dashboards interactifs), Docker & Kubernetes (AKS, EKS, GKE), TensorFlow Serving, TorchServe, ONNX
