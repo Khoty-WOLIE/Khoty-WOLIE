@@ -40,11 +40,20 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - Data Drift & Robustesse des Modèles : Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI pour le suivi du Data Drift et Concept Drift
 
 🛠 **Tests Statistiques et Analyses de Variance**
-- Test ANOVA (Comparaison de moyennes entre plusieurs groupes)
-- Test de Spearman (stats.spearmanr) (Corrélation non paramétrique)
-- Test d’égalité des variances (stats.levene) (Homogénéité des variances)
-- Test de normalité de Shapiro-Wilk (shapiro) (Normalité des distributions)
-- Test de corrélation de Pearson (pearsonr) (Corrélation linéaire)
+- Test ANOVA (stats.f_oneway) → Comparaison des moyennes entre plusieurs groupes
+- Test de Spearman (stats.spearmanr) → Corrélation non paramétrique
+- Test d’égalité des variances (stats.levene) → Homogénéité des variances
+- Test de normalité de Shapiro-Wilk (stats.shapiro) → Vérification de la normalité d’une distribution
+- Test de corrélation de Pearson (stats.pearsonr) → Corrélation linéaire
+- Test t de Student (stats.ttest_ind, stats.ttest_rel) → Comparaison des moyennes de deux groupes
+- Test Mann-Whitney U (stats.mannwhitneyu) → Comparaison de deux distributions non paramétriques
+- Test du Khi² (Chi-square test) (stats.chi2_contingency) → Détection d’association entre variables catégorielles
+- Test de Kendall (stats.kendalltau) → Corrélation entre deux variables ordinales
+- Test Kolmogorov-Smirnov (KS-test) (stats.kstest) → Comparaison d’une distribution avec une distribution théorique
+- Test Anderson-Darling (stats.anderson) → Vérification de la normalité
+- Test Bartlett (stats.bartlett) → Vérification de l’égalité des variances
+- Test Fligner-Killeen (stats.fligner) → Vérification de l’homogénéité des variances
+- Hypothèse nulle (H₀) → "Null Hypothesis" | Hypothèse alternative (H₁ ou Hₐ) → "Alternative Hypothesis"
 
 ### ☁ **Big Data, Cloud**  
 - Big Data & Cloud Computing : AWS (S3, EMR, IAM, Lambda, Sagemaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark
