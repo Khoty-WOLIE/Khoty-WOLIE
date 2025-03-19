@@ -2,7 +2,7 @@
 
 ## 🏆 Data Scientist | Data Analyst | Business Analyst | Product Owner | Spécialiste Big Data, IA & Machine Learning
 
-Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Machine Learning et Data Engineering** réalisés dans le cadre de formations et de travaux personnels.
+Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets en **Data Science, Machine Learning et Data Engineering** réalisés dans le cadre de formations et de travaux personnels.
 
 ---
 
