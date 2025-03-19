@@ -22,7 +22,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 ### 🤖 **Machine Learning & IA (Apprentissage Supervisé & Non Supervisé)**  
 - Régression : Régression Linéaire, Régression Ridge, Lasso, ElasticNet
 - Classification : Logistic Regression, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), SVM, KNN
-- Clustering : K-Means, DBSCAN, Agglomerative Clustering, GMM
+- Clustering : K-Means, DBSCAN, Classification Hiérarchique Ascendante (CAH), Agglomerative Clustering, GMM
 - NLP (Traitement Automatique du Langage) : TF-IDF, CountVectorizer, Word2Vec, FastText
 - Modèles Avancés : BERT, DeBERTa, GPT, Universal Sentence Encoder (USE)
 - Text Summarization & Classification : Hugging Face Transformers, LangChain
