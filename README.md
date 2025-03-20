@@ -39,7 +39,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 - Vision par Ordinateur : Top-K Accuracy, IoU (Intersection over Union), Mean Average Precision (MAP)
 - Data Drift & Robustesse des Modèles : Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI pour le suivi du Data Drift et Concept Drift
 
-🛠 **Tests Statistiques et Analyses de Variance**
+### 🛠 **Tests Statistiques et Analyses de Variance**
 - Test ANOVA (stats.f_oneway) → Comparaison des moyennes entre plusieurs groupes
 - Test de Spearman (stats.spearmanr) → Corrélation non paramétrique
 - Test d’égalité des variances (stats.levene) → Homogénéité des variances
