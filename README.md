@@ -20,7 +20,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 - Environnements de travail : Jupyter Notebook, VS Code, Google Colab, Pycharm
 
 ### 🤖 **Machine Learning & IA (Apprentissage Supervisé & Non Supervisé)**  
-- Régression : Régression Linéaire, Régression Ridge, Lasso, ElasticNet
+- Régression : Régression Linéaire, Régression Ridge, Lasso, ElasticNet, K Neighbors Regressor, Decision Tree Regressor, Support Vector Regression (SVR)
 - Classification : Logistic Regression, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), SVM, KNN
 - Clustering : K-Means, DBSCAN, Classification Hiérarchique Ascendante (CAH), Agglomerative Clustering, GMM
 - NLP (Traitement Automatique du Langage) : TF-IDF, CountVectorizer, Word2Vec, FastText
@@ -61,7 +61,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 - Déploiement & MLOps : Docker, CI/CD (Jenkins, GitHub Actions, GitLab CI/CD), MLflow, DVC, Evidently AI (monitoring des modèles)
 
 ### 🤖 **Déploiement d’Applications & API**
-- FastAPI, Flask, Streamlit, Dash (déploiement d’APIs et dashboards interactifs) 
+- FastAPI, Flask, API REST, Test unitaire, Streamlit, Dash (déploiement d’APIs et dashboards interactifs) 
 - Docker & Kubernetes (AKS, EKS, GKE) 
 - TensorFlow Serving, TorchServe, ONNX
 
