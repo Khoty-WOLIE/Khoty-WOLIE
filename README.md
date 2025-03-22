@@ -31,7 +31,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 | Visualisation | Outils d’analyse | Environnements |
 |---------------|------------------|----------------|
-| Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium (visualisation cartographique) | Power BI, Tableau, Knime, Google Data Studio, Neo4j | Jupyter, VS Code, Google Colab, PyCharm |
+| Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium | Power BI, Tableau, Knime, Google Data Studio, Neo4j | Jupyter, VS Code, Google Colab, PyCharm |
 
 ---
 
