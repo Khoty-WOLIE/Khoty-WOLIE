@@ -32,92 +32,90 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 
 
+
+
 ### 🔹 Langages de Programmation
 
 | Python | R | SQL | NoSQL | HTML/CSS | Excel/VBA | Power Query |
-|--------|---|-----|--------|----------|------------|--------------|
-| Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras | Modélisation statistique, visualisation de données | PostgreSQL, MySQL | MongoDB | Visualisation, dashboards interactifs | Automatisation des analyses avec macros | Nettoyage de données, ETL |
+|--------|----|-----|--------|-----------|-------------|--------------|
+| Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras | Statistiques, visualisation | PostgreSQL, MySQL | MongoDB | Visualisation, interfaces | Automatisation | Nettoyage, ETL |
 
-### 📊 Analyse et Visualisation de Données
+---
 
-| Visualisation | Outils d’analyse | Environnements de travail |
-|---------------|------------------|----------------------------|
-| Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium (visualisation cartographique) | Power BI, Tableau, Knime, Google Data Studio, Neo4j, Streamlit | Jupyter Notebook, VS Code, Google Colab, Pycharm |
+### 📊 Analyse & Visualisation de Données
 
-### 🤖 Machine Learning & IA (Apprentissage Supervisé & Non Supervisé)
+| Visualisation | Outils d’analyse | Environnements |
+|---------------|------------------|----------------|
+| Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium | Power BI, Tableau, Knime, Google Data Studio, Neo4j | Jupyter, VS Code, Google Colab, PyCharm |
 
-| Catégorie | Méthodes & Modèles |
-|-----------|--------------------|
-| Régression | Régression Linéaire, Régression Ridge, Lasso, ElasticNet, K Neighbors Regressor, Decision Tree Regressor, SVR |
-| Classification | Logistic Regression, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), SVM, KNN |
-| Clustering | K-Means, DBSCAN, CAH (Classification Hiérarchique Ascendante), Agglomerative Clustering, GMM |
-| NLP | TF-IDF, CountVectorizer, Word2Vec, FastText, BERT, DeBERTa, GPT, USE, Hugging Face Transformers, LangChain |
+---
+
+### 🤖 Machine Learning & IA
+
+| Type | Méthodes & Modèles |
+|------|---------------------|
+| Régression | Linéaire, Ridge, Lasso, ElasticNet, SVR, K Neighbors Regressor, Decision Tree Regressor |
+| Classification | Logistic Regression, Random Forest, SVM, KNN, Gradient Boosting (XGBoost, LightGBM, CatBoost) |
+| Clustering | ACP, K-Means, DBSCAN, CAH, Agglomerative Clustering, GMM |
+| NLP | TF-IDF, CountVectorizer, Word2Vec, FastText, BERT, DeBERTa, USE, LangChain, Hugging Face |
 | OCR & Extraction de Texte | Tesseract OCR, Spacy, NLTK |
-| Vision par Ordinateur | OpenCV, PIL, SIFT, CNN (ResNet, VGG16, EfficientNet, MobileNet, YOLO) |
-| Techniques avancées | Feature Extraction, Transfer Learning, Cosine Similarity, Faiss |
+| Vision par ordinateur | OpenCV, PIL, SIFT, CNN (VGG16, ResNet, EfficientNet, MobileNet, YOLO) |
+| Techniques avancées | Feature Extraction, Cosine Similarity, Faiss, Transfer Learning |
 
-### 🚀 Mesures de Performance & Évaluation des Modèles
+---
 
-| Domaine | Métriques Utilisées |
-|---------|---------------------|
-| Machine Learning & Classification | Accuracy, Precision, Recall, F1-score, AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR |
+### 🚀 Évaluation des Modèles & Performance
+
+| Type de Modèle | Métriques |
+|----------------|-----------|
+| Classification | Accuracy, Precision, Recall, F1-score, AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR |
 | Régression | R² Score, MAE (Mean Absolute Error), RMSE (Root Mean Squared Error) |
-| Clustering & Segmentation | Silhouette Score, Dunn Index, Adjusted Rand Index (ARI) |
+| Clustering | Silhouette Score, Dunn Index, ARI (Adjusted Rand Index) |
 | NLP | Perplexité, BLEU Score, ROUGE Score |
-| Vision par Ordinateur | Top-K Accuracy, IoU (Intersection over Union), Mean Average Precision (MAP) |
-| Data Drift & Robustesse des Modèles | Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI (suivi du Data Drift et Concept Drift) |
+| Vision par ordi. | Top-K Accuracy, IoU (Intersection over Union), MAP (Mean Average Precision) |
+| Robustesse & Data Drift | Kolmogorov-Smirnov, Jensen-Shannon Divergence, Chi², Evidently AI |
 
-### 🛠 Tests Statistiques et Analyses de Variance
+---
 
-| Test | Description |
-|------|-------------|
-| Test ANOVA (`stats.f_oneway`) | Comparaison des moyennes entre plusieurs groupes |
-| Test de Spearman (`stats.spearmanr`) | Corrélation non paramétrique |
-| Test d’égalité des variances (`stats.levene`) | Homogénéité des variances |
-| Test de normalité de Shapiro-Wilk (`stats.shapiro`) | Vérification de la normalité d’une distribution |
-| Test de corrélation de Pearson (`stats.pearsonr`) | Corrélation linéaire |
-| Test t de Student (`stats.ttest_ind`, `stats.ttest_rel`) | Comparaison des moyennes de deux groupes |
-| Test Mann-Whitney U (`stats.mannwhitneyu`) | Comparaison de deux distributions non paramétriques |
-| Test du Khi² - Chi-square (`stats.chi2_contingency`) | Détection d’association entre variables catégorielles |
-| Test de Kendall (`stats.kendalltau`) | Corrélation entre deux variables ordinales |
-| Test Kolmogorov-Smirnov (`stats.kstest`) | Comparaison d’une distribution avec une distribution théorique |
-| Test Anderson-Darling (`stats.anderson`) | Vérification de la normalité |
-| Test Bartlett (`stats.bartlett`) | Vérification de l’égalité des variances |
-| Test Fligner-Killeen (`stats.fligner`) | Vérification de l’homogénéité des variances |
-| Hypothèse nulle (`H₀`) | Hypothèse par défaut (pas de différence ou d’effet significatif) |
-| Hypothèse alternative (`H₁` ou `Hₐ`) | Hypothèse selon laquelle il existe une différence ou un effet significatif |
+### 🛠 Tests Statistiques & Analyse de Variance
 
-### ☁ Big Data, Cloud & MLOps
+| Tests Paramétriques | Tests Non Paramétriques |
+|---------------------|--------------------------|
+| ANOVA, Pearson, Shapiro-Wilk, Bartlett, Levene, Test t de Student (stats.ttest_ind, stats.ttest_rel) | Spearman, Kendall, Mann-Whitney U, Kolmogorov-Smirnov Test, Anderson-Darling, Fligner-Killeen , Khi² / Chi-square Test |
+| Hypothèses H₀ / H₁ | Comparaison de moyennes, corrélations, distributions |
 
-| Catégorie | Outils & Technologies |
-|-----------|------------------------|
-| **Big Data & Cloud Computing** | AWS (S3, EMR, IAM, Lambda, SageMaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark |
-| **Gestion des Flux de Données** | Kafka, Apache Airflow, Spark Streaming |
-| **Déploiement & MLOps** | Docker, CI/CD (Jenkins, GitHub Actions, GitLab CI/CD), MLflow, DVC, Evidently AI (surveillance & suivi de dérive de modèle) |
+---
+
+### ☁️ Big Data, Cloud & MLOps
+
+| Cloud & Big Data | MLOps & CI/CD | Flux de Données |
+|------------------|---------------|------------------|
+| **AWS** : S3, EMR, EC2, IAM, Lambda, SageMaker <br> **Azure** : Azure Databricks, Azure ML, Blob Storage, Cognitive Services, Azure Functions, Azure Kubernetes Service (AKS) <br> **GCP** : BigQuery, Cloud Functions, AI Platform, GCS (Google Cloud Storage), Vertex AI, Dataproc | MLflow, Docker, Jenkins, Git, GitHub Actions, GitLab CI/CD | Kafka, Apache Airflow, Spark Streaming, PySpark, Hadoop |
+
+---
 
 ### 🤖 Déploiement d’Applications & API
 
-| Catégorie | Outils & Technologies |
-|-----------|------------------------|
-| **APIs & Dashboards** | FastAPI, Flask, API REST, Streamlit, Dash, Tests unitaires |
-| **Conteneurisation & Orchestration** | Docker, Kubernetes (AKS, EKS, GKE) |
-| **Model Serving** | TensorFlow Serving, TorchServe, ONNX |
+| APIs & Apps | Conteneurisation | Serving |
+|-------------|------------------|---------|
+| FastAPI, Flask, API REST, Test unitaire, Streamlit Streamlit, Dash | Docker, Kubernetes (AKS, EKS, GKE) | TensorFlow Serving, TorchServe, ONNX |
 
-### 📦 Méthodologies de Travail & Gestion de Projet
+---
 
-| Catégorie | Outils & Méthodes |
-|-----------|--------------------|
-| **Méthodologies Agiles** | SCRUM (Sprint Planning, Daily Stand-ups, Sprint Review, Rétrospective) |
-| **Gestion de Projet** | Jira, Trello, Confluence, Ms-Project |
-| **Conformité & Sécurité** | RGPD (protection des données personnelles), IAM (gestion des accès) |
+### 🧠 Méthodologies de Travail & Gestion de Projet
 
-### 🌐 Systèmes d’Exploitation & Outils Divers
+| Méthodes Agiles | Gestion de Projet | Conformité |
+|------------------|-------------------|-------------|
+| SCRUM (Sprint, Planning, Review, Rétrospective) | Jira, Trello, Confluence, MS-Project | RGPD, IAM (gestion des accès) |
 
-| Catégorie | Outils |
-|-----------|--------|
-| **Systèmes d’exploitation** | Linux (Ubuntu, Debian), Windows, macOS |
-| **CRM & Outils d’entreprise** | E-Deal CRM, ServiceNow, Espace Pro, SAS |
-| **Tests & Qualité Logicielle** | Testlink, HP Quality Center, Serena |
+---
+
+### 💻 Systèmes d’exploitation & Environnements Pro
+
+| OS | Logiciels Métier | Tests Logiciels |
+|----|------------------|------------------|
+| Linux (Ubuntu, Debian), Windows, macOS | CRM E-Deal, ServiceNow, SAS, Espace Pro | Testlink, Serena, HP Quality Center |
+
 
 
 
