@@ -24,6 +24,19 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
+### 🧹 Traitement & Préparation des Données
+
+| Étapes | Méthodes & Outils |
+|--------|--------------------|
+| Nettoyage des Données | Suppression des doublons, gestion des valeurs manquantes (dropna, fillna, KNN imputer), détection des valeurs aberrantes (boxplots, z-score, IQR) |
+| Transformation & Normalisation | StandardScaler, MinMaxScaler, log transformation (np.log1p), normalisation, binning |
+| Feature Engineering | Création de nouvelles variables, agrégation (groupby, pivot), extraction de dates, parsing de textes |
+| Sélection de Variables | Analyse de corrélation, SelectKBest, RFE (Recursive Feature Elimination), importance des features |
+| Encodage de Variables | OneHotEncoder, LabelEncoder, OrdinalEncoder |
+| Préparation pour le ML | Split Train/Test, cross-validation, pipeline de prétraitement (sklearn.pipeline.Pipeline) |
+
+---
+
 ### 🤖 Machine Learning & IA
 
 | Type | Méthodes & Modèles |
@@ -72,7 +85,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 | APIs & Apps | Conteneurisation | Serving |
 |-------------|------------------|---------|
-| FastAPI, Flask, API REST, Test unitaire, Streamlit Streamlit, Dash | Docker, Kubernetes (AKS, EKS, GKE) | TensorFlow Serving, TorchServe, ONNX |
+| FastAPI, Flask, API REST, Test unitaire, Streamlit, Dash | Docker, Kubernetes (AKS, EKS, GKE) | TensorFlow Serving, TorchServe, ONNX |
 
 ---
 
