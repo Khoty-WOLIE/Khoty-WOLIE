@@ -8,6 +8,137 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ## 🔥 **Mes Compétences**  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 🔹 Langages de Programmation
+
+| Python | R | SQL | NoSQL | HTML/CSS | Excel/VBA | Power Query |
+|--------|---|-----|--------|----------|------------|--------------|
+| Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras | Modélisation statistique, visualisation de données | PostgreSQL, MySQL | MongoDB | Visualisation, dashboards interactifs | Automatisation des analyses avec macros | Nettoyage de données, ETL |
+
+### 📊 Analyse et Visualisation de Données
+
+| Visualisation | Outils d’analyse | Environnements de travail |
+|---------------|------------------|----------------------------|
+| Matplotlib, Seaborn, Plotly, Dash, Bokeh, Folium (visualisation cartographique) | Power BI, Tableau, Knime, Google Data Studio, Neo4j, Streamlit | Jupyter Notebook, VS Code, Google Colab, Pycharm |
+
+### 🤖 Machine Learning & IA (Apprentissage Supervisé & Non Supervisé)
+
+| Catégorie | Méthodes & Modèles |
+|-----------|--------------------|
+| Régression | Régression Linéaire, Régression Ridge, Lasso, ElasticNet, K Neighbors Regressor, Decision Tree Regressor, SVR |
+| Classification | Logistic Regression, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), SVM, KNN |
+| Clustering | K-Means, DBSCAN, CAH (Classification Hiérarchique Ascendante), Agglomerative Clustering, GMM |
+| NLP | TF-IDF, CountVectorizer, Word2Vec, FastText, BERT, DeBERTa, GPT, USE, Hugging Face Transformers, LangChain |
+| OCR & Extraction de Texte | Tesseract OCR, Spacy, NLTK |
+| Vision par Ordinateur | OpenCV, PIL, SIFT, CNN (ResNet, VGG16, EfficientNet, MobileNet, YOLO) |
+| Techniques avancées | Feature Extraction, Transfer Learning, Cosine Similarity, Faiss |
+
+### 🚀 Mesures de Performance & Évaluation des Modèles
+
+| Domaine | Métriques Utilisées |
+|---------|---------------------|
+| Machine Learning & Classification | Accuracy, Precision, Recall, F1-score, AUC-ROC, Log Loss, Matthews Correlation Coefficient (MCC), Matrice de confusion, Courbe PR |
+| Régression | R² Score, MAE (Mean Absolute Error), RMSE (Root Mean Squared Error) |
+| Clustering & Segmentation | Silhouette Score, Dunn Index, Adjusted Rand Index (ARI) |
+| NLP | Perplexité, BLEU Score, ROUGE Score |
+| Vision par Ordinateur | Top-K Accuracy, IoU (Intersection over Union), Mean Average Precision (MAP) |
+| Data Drift & Robustesse des Modèles | Kolmogorov-Smirnov Test, Jensen-Shannon Divergence, Chi² Test, Evidently AI (suivi du Data Drift et Concept Drift) |
+
+### 🛠 Tests Statistiques et Analyses de Variance
+
+| Test | Description |
+|------|-------------|
+| Test ANOVA (`stats.f_oneway`) | Comparaison des moyennes entre plusieurs groupes |
+| Test de Spearman (`stats.spearmanr`) | Corrélation non paramétrique |
+| Test d’égalité des variances (`stats.levene`) | Homogénéité des variances |
+| Test de normalité de Shapiro-Wilk (`stats.shapiro`) | Vérification de la normalité d’une distribution |
+| Test de corrélation de Pearson (`stats.pearsonr`) | Corrélation linéaire |
+| Test t de Student (`stats.ttest_ind`, `stats.ttest_rel`) | Comparaison des moyennes de deux groupes |
+| Test Mann-Whitney U (`stats.mannwhitneyu`) | Comparaison de deux distributions non paramétriques |
+| Test du Khi² - Chi-square (`stats.chi2_contingency`) | Détection d’association entre variables catégorielles |
+| Test de Kendall (`stats.kendalltau`) | Corrélation entre deux variables ordinales |
+| Test Kolmogorov-Smirnov (`stats.kstest`) | Comparaison d’une distribution avec une distribution théorique |
+| Test Anderson-Darling (`stats.anderson`) | Vérification de la normalité |
+| Test Bartlett (`stats.bartlett`) | Vérification de l’égalité des variances |
+| Test Fligner-Killeen (`stats.fligner`) | Vérification de l’homogénéité des variances |
+| Hypothèse nulle (`H₀`) | Hypothèse par défaut (pas de différence ou d’effet significatif) |
+| Hypothèse alternative (`H₁` ou `Hₐ`) | Hypothèse selon laquelle il existe une différence ou un effet significatif |
+
+### ☁ Big Data, Cloud & MLOps
+
+| Catégorie | Outils & Technologies |
+|-----------|------------------------|
+| **Big Data & Cloud Computing** | AWS (S3, EMR, IAM, Lambda, SageMaker), Microsoft Azure (Databricks, Azure ML, Cognitive Services), Google Cloud Platform (GCP), Hadoop, PySpark |
+| **Gestion des Flux de Données** | Kafka, Apache Airflow, Spark Streaming |
+| **Déploiement & MLOps** | Docker, CI/CD (Jenkins, GitHub Actions, GitLab CI/CD), MLflow, DVC, Evidently AI (surveillance & suivi de dérive de modèle) |
+
+### 🤖 Déploiement d’Applications & API
+
+| Catégorie | Outils & Technologies |
+|-----------|------------------------|
+| **APIs & Dashboards** | FastAPI, Flask, API REST, Streamlit, Dash, Tests unitaires |
+| **Conteneurisation & Orchestration** | Docker, Kubernetes (AKS, EKS, GKE) |
+| **Model Serving** | TensorFlow Serving, TorchServe, ONNX |
+
+### 📦 Méthodologies de Travail & Gestion de Projet
+
+| Catégorie | Outils & Méthodes |
+|-----------|--------------------|
+| **Méthodologies Agiles** | SCRUM (Sprint Planning, Daily Stand-ups, Sprint Review, Rétrospective) |
+| **Gestion de Projet** | Jira, Trello, Confluence, Ms-Project |
+| **Conformité & Sécurité** | RGPD (protection des données personnelles), IAM (gestion des accès) |
+
+### 🌐 Systèmes d’Exploitation & Outils Divers
+
+| Catégorie | Outils |
+|-----------|--------|
+| **Systèmes d’exploitation** | Linux (Ubuntu, Debian), Windows, macOS |
+| **CRM & Outils d’entreprise** | E-Deal CRM, ServiceNow, Espace Pro, SAS |
+| **Tests & Qualité Logicielle** | Testlink, HP Quality Center, Serena |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🔹 **Langages de Programmation** 
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras)
 - R (modélisation statistique, visualisation de données)
