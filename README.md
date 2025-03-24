@@ -134,6 +134,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 ---
 
 ### 🎯 **Projets Personnels** 
+- 🏠 [house-price-api](https://github.com/Khoty-WOLIE/house-price-api)
 - 🚀 [YOLOv8-Object-Detection](https://github.com/Khoty-WOLIE/YOLOv8-Object-Detection)
 - 🤖 [LLM-LangChain-and-OpenAI](https://github.com/Khoty-WOLIE/LLM-LangChain-and-OpenAI)  
 - 🌐 [Portfolio_Website_Photographer](https://github.com/Khoty-WOLIE/Portfolio_Website_Photographer)  
