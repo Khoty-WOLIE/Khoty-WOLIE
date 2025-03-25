@@ -42,12 +42,13 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 | Type | Méthodes & Modèles |
 |------|---------------------|
 | Régression | Linéaire, Ridge, Lasso, ElasticNet, SVR, K Neighbors Regressor, Decision Tree Regressor |
-| Classification | Logistic Regression, Random Forest, SVM, KNN, Gradient Boosting (XGBoost, LightGBM, CatBoost) |
+| Classification | Logistic Regression, Random Forest, SVM, KNN, Gradient Boosting (XGBoost, LightGBM, CatBoost), Weight, Undersampling, Oversampling, SMOTE |
 | Clustering | ACP, K-Means, DBSCAN, CAH, Agglomerative Clustering, GMM |
 | NLP | TF-IDF, CountVectorizer, Word2Vec, FastText, BERT, DeBERTa, USE, LangChain, Hugging Face |
 | OCR & Extraction de Texte | Tesseract OCR, Spacy, NLTK |
 | Vision par ordinateur | OpenCV, PIL, SIFT, CNN (VGG16, ResNet, EfficientNet, MobileNet, YOLO) |
 | Techniques avancées | Feature Extraction, Cosine Similarity, Faiss, Transfer Learning |
+|Prétraitement d’images & Data Augmentation | Préparation initiale des images, ImageDataGenerator avec data augmentation, Dataset avec data augmentation intégrée au modèle |
 
 ---
 
