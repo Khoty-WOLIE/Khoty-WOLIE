@@ -109,38 +109,38 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 ## 📌 **Mes Projets**  
 
 ### 🔷 📚 **Formation Data Scientist - OpenClassrooms / CentraleSupélec**  
-- 📊 [Projet 2 : Analyse des Données des Systèmes Éducatifs - Projet Academy](https://github.com/Khoty-WOLIE/ANALYSE-DONNEES-SYSTEMES-EDUCATIFS-PROJET-ACADEMY)  
-- 🏥 [Projet 3 : Préparation et Analyse des Données Open Food Facts - Projet Santé Publique France](https://github.com/Khoty-WOLIE/PREPARATION-ANALYSE-DONNEES-OPENFOODFACTS-SANTE-PUBLIQUE-FRANCE)  
-- 🌍 [Projet 4 : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments - Ville de Seattle](https://github.com/Khoty-WOLIE/ANTICIPATION-CONSOMMATION-ENERGIE-CO2-BATIMENTS-SEATTLE) 
-- 🛒 [Projet 5 : Segmentez des clients d'un site e-commerce - Projet Olist](https://github.com/Khoty-WOLIE/SEGMENTATION-CLIENTS-E-COMMERCE-PROJET-OLIST)  
-- 📦 [Projet 6 : Classifiez automatiquement des biens de consommation - Place de Marché](https://github.com/Khoty-WOLIE/CLASSIFICATION-AUTOMATIQUE-BIENS-CONSOMMATION-MARCHE)  
-- 💳 [Projet 7 : Implémentez un Modèle de Scoring Crédit et Intégration MLOps](https://github.com/Khoty-WOLIE/MODELE-SCORING-CREDIT-MLops)  
-- 📊 [Projet 8 : Réalisez un dashboard et assurez une veille technique](https://github.com/Khoty-WOLIE/DASHBOARD-VEILLE-TECHNIQUE-ETAT-DE-LART)  
-- ☁️ [Projet 9 : Réalisez un traitement dans un environnement Big Data sur le Cloud](https://github.com/Khoty-WOLIE/TRAITEMENT-BIG-DATA-CLOUD)  
-- 🤖 [Projet 10 : Réalisez le cadrage d’un projet IA - Développement d'une Application Mobile de Recommandation d'Articles Vestimentaires Basée sur l'IA](https://github.com/Khoty-WOLIE/CADRAGE-PROJET-IA-APP-RECOMMANDATION-VETEMENTS)  
+- 📊 [Projet 1 : Analyse des Données des Systèmes Éducatifs - Projet Academy](https://github.com/Khoty-WOLIE/ANALYSE-DONNEES-SYSTEMES-EDUCATIFS-PROJET-ACADEMY)  
+- 🏥 [Projet 2 : Préparation et Analyse des Données Open Food Facts - Projet Santé Publique France](https://github.com/Khoty-WOLIE/PREPARATION-ANALYSE-DONNEES-OPENFOODFACTS-SANTE-PUBLIQUE-FRANCE)  
+- 🌍 [Projet 3 : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments - Ville de Seattle](https://github.com/Khoty-WOLIE/ANTICIPATION-CONSOMMATION-ENERGIE-CO2-BATIMENTS-SEATTLE) 
+- 🛒 [Projet 4 : Segmentez des clients d'un site e-commerce - Projet Olist](https://github.com/Khoty-WOLIE/SEGMENTATION-CLIENTS-E-COMMERCE-PROJET-OLIST)  
+- 📦 [Projet 5 : Classifiez automatiquement des biens de consommation - Place de Marché](https://github.com/Khoty-WOLIE/CLASSIFICATION-AUTOMATIQUE-BIENS-CONSOMMATION-MARCHE)  
+- 💳 [Projet 6 : Implémentez un Modèle de Scoring Crédit et Intégration MLOps](https://github.com/Khoty-WOLIE/MODELE-SCORING-CREDIT-MLops)  
+- 📊 [Projet 7 : Réalisez un dashboard et assurez une veille technique](https://github.com/Khoty-WOLIE/DASHBOARD-VEILLE-TECHNIQUE-ETAT-DE-LART)  
+- ☁️ [Projet 8 : Réalisez un traitement dans un environnement Big Data sur le Cloud](https://github.com/Khoty-WOLIE/TRAITEMENT-BIG-DATA-CLOUD)  
+- 🤖 [Projet 9 : Réalisez le cadrage d’un projet IA - Développement d'une Application Mobile de Recommandation d'Articles Vestimentaires Basée sur l'IA](https://github.com/Khoty-WOLIE/CADRAGE-PROJET-IA-APP-RECOMMANDATION-VETEMENTS)  
 
 ---
 
 ### 🔶 📊 **Formation Data Analyst - OpenClassrooms / CentraleSupélec**  
-- 🛍️ [Projet 2 : Analyse des ventes pour un e-commerce - Le Grand Marché (LGM)](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET2)  
-- 🏠 [Projet 3 : Créez et utilisez une base de données immobilière avec SQL - Laplace Immo](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET3)  
-- ⚕️ [Projet 4 : Étude de santé publique avec R ou Python - Projet FAO (Sous-nutrition Mondiale)](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET4)  
-- 📦 [Projet 5 : Optimisation de la gestion des données d'une boutique avec R ou Python - Projet BottleNeck](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET5)  
-- 📚 [Projet 6 : Analyse des ventes d'une librairie avec R ou Python - Projet Lapage](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET6)  
-- ♀️ [Projet 7 : Analyse des indicateurs de l'égalité femme-homme avec Knime - Cabinet de Consultant](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET7)  
-- 💧 [Projet 8 : Étude sur l'eau potable - Tableau de Bord de l'Insécurité Alimentaire et Accès à l'Eau - Projet DWFA](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET8)  
-- 📈 [Projet 9 : Produisez une étude de marché avec R ou Python - Projet La Poule qui Chante](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET9)  
-- 💵 [Projet 10 : Détection des faux billets avec R ou Python - Projet ONCFM](https://github.com/Khoty-WOLIE/OPC_DATA_ANALYST_PROJET10)  
+- 🛍️ [Projet 1 : Analyse des ventes pour un e-commerce - Le Grand Marché (LGM)](https://github.com/Khoty-WOLIE/ANALYSE-VENTES-ECOMMERCE-LGM)  
+- 🏠 [Projet 2 : Créez et utilisez une base de données immobilière avec SQL - Laplace Immo](https://github.com/Khoty-WOLIE/BASE-DONNEES-IMMOBILIERE-SQL-LAPLACE-IMMO)  
+- ⚕️ [Projet 3 : Étude de santé publique avec R ou Python - Projet FAO (Sous-nutrition Mondiale)](https://github.com/Khoty-WOLIE/ETUDE-SANTE-PUBLIQUE-PROJET-FAO-SOUS-NUTRITION)  
+- 📦 [Projet 4 : Optimisation de la gestion des données d'une boutique avec R ou Python - Projet BottleNeck](https://github.com/Khoty-WOLIE/OPTIMISATION-GESTION-DONNEES-BOUTIQUE-PROJET-BOTTLENECK)  
+- 📚 [Projet 5 : Analyse des ventes d'une librairie avec R ou Python - Projet Lapage](https://github.com/Khoty-WOLIE/ANALYSE-VENTES-LIBRAIRIE-PROJET-LAPAGE)  
+- ♀️ [Projet 6 : Analyse des indicateurs de l'égalité femme-homme avec Knime - Cabinet de Consultant](https://github.com/Khoty-WOLIE/ANALYSE-INDICATEURS-EGALITE-FEMME-HOMME-KNIME-CONSULTANT)  
+- 💧 [Projet 7 : Étude sur l'eau potable - Tableau de Bord de l'Insécurité Alimentaire et Accès à l'Eau - Projet DWFA](https://github.com/Khoty-WOLIE/ETUDE-EAU-POTABLE-SECURITE-ALIMENTAIRE-ACCES-EAU-PROJET-DWFA) 
+- 📈 [Projet 8 : Produisez une étude de marché avec R ou Python - Projet La Poule qui Chante](https://github.com/Khoty-WOLIE/ETUDE-MARCHE-INTERNATIONAL-PROJET-LA-POULE-QUI-CHANTE)  
+- 💵 [Projet 9 : Détection des faux billets avec R ou Python - Projet ONCFM](https://github.com/Khoty-WOLIE/DETECTION-FAUX-BILLETS-IDENTIFICATION-AUTOMATIQUE-ONCFM)  
 
 ---
 
 ### 🎯 **Projets Personnels** 
 - 🏠 [house-price-api](https://github.com/Khoty-WOLIE/house-price-api)
 - 🚀 [YOLOv8-Object-Detection](https://github.com/Khoty-WOLIE/YOLOv8-Object-Detection)
-- 🤖 [LLM-LangChain-and-OpenAI](https://github.com/Khoty-WOLIE/LLM-LangChain-and-OpenAI)  
-- 🌐 [Portfolio_Website_Photographer](https://github.com/Khoty-WOLIE/Portfolio_Website_Photographer)  
-- 🔍 [Data_Explorer_Project_1](https://github.com/Khoty-WOLIE/Data_Explorer_Project)  
-- 📊 [Data_Explorer_Project_2](https://github.com/Khoty-WOLIE/Data_Explorer_Project-)  
+- 🤖 [LLM-LangChain-and-OpenAI](https://github.com/Khoty-WOLIE/APPLICATION-LLM-LANGCHAIN-OPENAI)  
+- 🌐 [Portfolio_Website_Photographer](https://github.com/Khoty-WOLIE/PORTFOLIO-WEBSITE-PHOTOGRAPHER)  
+- 🔍 [Data_Explorer_Project_1](https://github.com/Khoty-WOLIE/DATA-EXPLORER-PROJET-1)  
+- 📊 [Data_Explorer_Project_2](https://github.com/Khoty-WOLIE/DATA-EXPLORER-PROJET-2)  
 
 ---
 
