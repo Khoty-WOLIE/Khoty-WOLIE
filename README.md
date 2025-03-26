@@ -109,15 +109,15 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 ## 📌 **Mes Projets**  
 
 ### 🔷 📚 **Formation Data Scientist - OpenClassrooms / CentraleSupélec**  
-- 📊 [Projet 2 : Analyse des Données des Systèmes Éducatifs - Projet Academy](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET2)  
-- 🏥 [Projet 3 : Préparation et Analyse des Données Open Food Facts - Projet Santé Publique France](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET3)  
-- 🌍 [Projet 4 : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments - Ville de Seattle](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET4)  
-- 🛒 [Projet 5 : Segmentez des clients d'un site e-commerce - Projet Olist](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET5)  
-- 📦 [Projet 6 : Classifiez automatiquement des biens de consommation - Place de Marché](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET6)  
-- 💳 [Projet 7 : Implémentez un Modèle de Scoring Crédit et Intégration MLOps](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET7)  
-- 📊 [Projet 8 : Réalisez un dashboard et assurez une veille technique](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET8)  
-- ☁️ [Projet 9 : Réalisez un traitement dans un environnement Big Data sur le Cloud](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET9)  
-- 🤖 [Projet 10 : Réalisez le cadrage d’un projet IA - Développement d'une Application Mobile de Recommandation d'Articles Vestimentaires Basée sur l'IA](https://github.com/Khoty-WOLIE/OPC_DATA_SCIENTIST_PROJET10)  
+- 📊 [Projet 2 : Analyse des Données des Systèmes Éducatifs - Projet Academy](https://github.com/Khoty-WOLIE/ANALYSE-DONNEES-SYSTEMES-EDUCATIFS-PROJET-ACADEMY)  
+- 🏥 [Projet 3 : Préparation et Analyse des Données Open Food Facts - Projet Santé Publique France](https://github.com/Khoty-WOLIE/PREPARATION-ANALYSE-DONNEES-OPENFOODFACTS-SANTE-PUBLIQUE-FRANCE)  
+- 🌍 [Projet 4 : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments - Ville de Seattle](https://github.com/Khoty-WOLIE/ANTICIPATION-CONSOMMATION-ENERGIE-CO2-BATIMENTS-SEATTLE)  
+- 🛒 [Projet 5 : Segmentez des clients d'un site e-commerce - Projet Olist](https://github.com/Khoty-WOLIE/SEGMENTATION-CLIENTS-E-COMMERCE-PROJET-OLIST)  
+- 📦 [Projet 6 : Classifiez automatiquement des biens de consommation - Place de Marché](https://github.com/Khoty-WOLIE/CLASSIFICATION-AUTOMATIQUE-BIENS-CONSOMMATION-MARCHE)  
+- 💳 [Projet 7 : Implémentez un Modèle de Scoring Crédit et Intégration MLOps](https://github.com/Khoty-WOLIE/MODELE-SCORING-CREDIT-MLops)  
+- 📊 [Projet 8 : Réalisez un dashboard et assurez une veille technique](https://github.com/Khoty-WOLIE/DASHBOARD-VEILLE-TECHNIQUE-ETAT-DE-LART)  
+- ☁️ [Projet 9 : Réalisez un traitement dans un environnement Big Data sur le Cloud](https://github.com/Khoty-WOLIE/TRAITEMENT-BIG-DATA-CLOUD)  
+- 🤖 [Projet 10 : Réalisez le cadrage d’un projet IA - Développement d'une Application Mobile de Recommandation d'Articles Vestimentaires Basée sur l'IA](https://github.com/Khoty-WOLIE/CADRAGE-PROJET-IA-APP-RECOMMANDATION-VETEMENTS)  
 
 ---
 
