@@ -111,7 +111,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 ### 🔷 📚 **Formation Data Scientist - OpenClassrooms / CentraleSupélec**  
 - 📊 [Projet 2 : Analyse des Données des Systèmes Éducatifs - Projet Academy](https://github.com/Khoty-WOLIE/ANALYSE-DONNEES-SYSTEMES-EDUCATIFS-PROJET-ACADEMY)  
 - 🏥 [Projet 3 : Préparation et Analyse des Données Open Food Facts - Projet Santé Publique France](https://github.com/Khoty-WOLIE/PREPARATION-ANALYSE-DONNEES-OPENFOODFACTS-SANTE-PUBLIQUE-FRANCE)  
-- 🌍 [Projet 4 : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments - Ville de Seattle](https://github.com/Khoty-WOLIE/ANTICIPATION-CONSOMMATION-ENERGIE-CO2-BATIMENTS-SEATTLE)  
+- 🌍 [Projet 4 : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments - Ville de Seattle](https://github.com/Khoty-WOLIE/ANTICIPATION-CONSOMMATION-ENERGIE-CO2-BATIMENTS-SEATTLE) 
 - 🛒 [Projet 5 : Segmentez des clients d'un site e-commerce - Projet Olist](https://github.com/Khoty-WOLIE/SEGMENTATION-CLIENTS-E-COMMERCE-PROJET-OLIST)  
 - 📦 [Projet 6 : Classifiez automatiquement des biens de consommation - Place de Marché](https://github.com/Khoty-WOLIE/CLASSIFICATION-AUTOMATIQUE-BIENS-CONSOMMATION-MARCHE)  
 - 💳 [Projet 7 : Implémentez un Modèle de Scoring Crédit et Intégration MLOps](https://github.com/Khoty-WOLIE/MODELE-SCORING-CREDIT-MLops)  
