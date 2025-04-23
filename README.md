@@ -135,6 +135,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 ---
 
 ### 🎯 **Projets Personnels** 
+- 📡 [Congestion_reseau_predictor](https://github.com/Khoty-WOLIE/CONGESTION_RESEAU_PREDICTOR)
 - 🏠 [house-price-api](https://github.com/Khoty-WOLIE/house-price-api)
 - 🚀 [YOLOv8-Object-Detection](https://github.com/Khoty-WOLIE/YOLOv8-Object-Detection)
 - 🤖 [LLM-LangChain-and-OpenAI](https://github.com/Khoty-WOLIE/APPLICATION-LLM-LANGCHAIN-OPENAI)  
