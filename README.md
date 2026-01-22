@@ -94,7 +94,8 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 | Méthodes Agiles | Gestion de Projet | Conformité |
 |------------------|-------------------|-------------|
-| SCRUM (Sprint, Planning, Review, Rétrospective) | Jira, Trello, Confluence, MS-Project | RGPD, IAM (gestion des accès) |
+| SCRUM (Sprint, Planning, Review, Rétrospective) | Jira, Trello, Miro, Confluence, MS-Project | RGPD, IAM (gestion des accès) |
+| Méthode LEAN (gestion de production) |
 
 ---
 
