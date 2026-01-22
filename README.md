@@ -92,10 +92,10 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ### 🧠 Méthodologies de Travail & Gestion de Projet
 
-| Méthodes Agiles | Gestion de Projet | Conformité |
+| Méthodes | Gestion de Projet | Conformité |
 |------------------|-------------------|-------------|
-| SCRUM (Sprint, Planning, Review, Rétrospective) | Jira, Trello, Miro, Confluence, MS-Project | RGPD, IAM (gestion des accès) |
-| Méthode LEAN (gestion de production) |
+| Agiles SCRUM (Sprint, Planning, Review, Rétrospective) | Jira, Trello, Miro, Confluence, MS-Project | RGPD, IAM (gestion des accès) |
+| LEAN (gestion de production) |
 
 ---
 
