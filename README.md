@@ -109,7 +109,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ## 📌 **Mes Projets**  
 
-### 🔷 📚 **Formation Data Scientist - Partenariat CentraleSupélec & OpenClassrooms**  
+### 🔷  **Data Scientist - Partenariat CentraleSupélec & OpenClassrooms**  
 - 📊 [Projet 1 : Analyse des Données des Systèmes Éducatifs - Projet Academy](https://github.com/Khoty-WOLIE/ANALYSE-DONNEES-SYSTEMES-EDUCATIFS-PROJET-ACADEMY)  
 - 🏥 [Projet 2 : Préparation et Analyse des Données Open Food Facts - Projet Santé Publique France](https://github.com/Khoty-WOLIE/PREPARATION-ANALYSE-DONNEES-OPENFOODFACTS-SANTE-PUBLIQUE-FRANCE)  
 - 🌍 [Projet 3 : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments - Ville de Seattle](https://github.com/Khoty-WOLIE/ANTICIPATION-CONSOMMATION-ENERGIE-CO2-BATIMENTS-SEATTLE) 
@@ -122,7 +122,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🔶 📊 **Formation Data Analyst - Partenariat CentraleSupélec & OpenClassrooms**  
+### 🔶  **Data Analyst - Partenariat CentraleSupélec & OpenClassrooms**  
 - 🛍️ [Projet 1 : Analyse des ventes pour un e-commerce - Le Grand Marché (LGM)](https://github.com/Khoty-WOLIE/ANALYSE-VENTES-ECOMMERCE-LGM)  
 - 🏠 [Projet 2 : Créez et utilisez une base de données immobilière avec SQL - Laplace Immo](https://github.com/Khoty-WOLIE/BASE-DONNEES-IMMOBILIERE-SQL-LAPLACE-IMMO)  
 - ⚕️ [Projet 3 : Étude de santé publique avec R ou Python - Projet FAO (Sous-nutrition Mondiale)](https://github.com/Khoty-WOLIE/ETUDE-SANTE-PUBLIQUE-PROJET-FAO-SOUS-NUTRITION)  
@@ -135,7 +135,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🎯 **Projets Personnels** 
+### 🎯 **Projets ** 
 - 🛢️ [data-lake-hadoop-spark-restaurant-paris-ETL](https://github.com/Khoty-WOLIE/DATA-LAKE-HADOOP-SPARK-RESTAURANT-PARIS-ETL)
 - 📡 [Congestion_reseau_predictor](https://github.com/Khoty-WOLIE/CONGESTION_RESEAU_PREDICTOR)
 - 🏠 [house-price-api](https://github.com/Khoty-WOLIE/house-price-api)
