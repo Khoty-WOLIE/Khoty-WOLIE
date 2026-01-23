@@ -135,7 +135,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🎯 **Projets ** 
+### 🎯 **Projets** 
 - 🛢️ [data-lake-hadoop-spark-restaurant-paris-ETL](https://github.com/Khoty-WOLIE/DATA-LAKE-HADOOP-SPARK-RESTAURANT-PARIS-ETL)
 - 📡 [Congestion_reseau_predictor](https://github.com/Khoty-WOLIE/CONGESTION_RESEAU_PREDICTOR)
 - 🏠 [house-price-api](https://github.com/Khoty-WOLIE/house-price-api)
