@@ -1,6 +1,6 @@
 #  Hello, je suis Khoty WOLIE !  
 
-## Ingénieur IA | Data Scientist | Data Analyst | Business Analyst | Chef de Projet en Intelligence Artificielle | Product Owner | Scrum Master | Spécialiste Big Data, IA & Machine Learning
+## Ingénieur IA | Data Scientist | Data Analyst | Business Analyst | Chef de Projet en Intelligence Artificielle | Product Owner | Scrum Master | Spécialiste Big Data & Machine Learning
 
 Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets en **Data Science, Machine Learning et Data Engineering**.
 
