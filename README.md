@@ -16,7 +16,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 📊 Analyse & Visualisation de Données
+### 🔹 Analyse & Visualisation de Données
 
 | Visualisation | Outils d’analyse | Environnements |
 |---------------|------------------|----------------|
@@ -24,7 +24,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🧹 Traitement & Préparation des Données
+### 🔹 Traitement & Préparation des Données
 
 | Étapes | Méthodes & Outils |
 |--------|--------------------|
@@ -37,7 +37,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🤖 Machine Learning & IA
+### 🔹 Machine Learning & IA
 
 | Type | Méthodes & Modèles |
 |------|---------------------|
@@ -52,7 +52,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🚀 Évaluation des Modèles & Performance
+### 🔹 Évaluation des Modèles & Performance
 
 | Type de Modèle | Métriques |
 |----------------|-----------|
@@ -65,7 +65,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🛠 Tests Statistiques & Analyse de Variance
+### 🔹 Tests Statistiques & Analyse de Variance
 
 | Tests Paramétriques | Tests Non Paramétriques |
 |---------------------|--------------------------|
@@ -74,7 +74,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### ☁️ Big Data, Cloud & MLOps
+### 🔹 Big Data, Cloud & MLOps
 
 | Cloud & Big Data | MLOps & CI/CD | Flux de Données |
 |------------------|---------------|------------------|
@@ -82,7 +82,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🤖 Déploiement d’Applications & API
+### 🔹 Déploiement d’Applications & API
 
 | APIs & Apps | Conteneurisation | Serving |
 |-------------|------------------|---------|
@@ -90,7 +90,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 🧠 Méthodologies de Travail & Gestion de Projet
+### 🔹 Méthodologies de Travail & Gestion de Projet
 
 | Méthodes | Gestion de Projet | Conformité |
 |------------------|-------------------|-------------|
@@ -99,7 +99,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras plus d’une vingtaine de projets e
 
 ---
 
-### 💻 Systèmes d’exploitation & Environnements Pro
+### 🔹 Systèmes d’exploitation & Environnements Pro
 
 | OS | Logiciels Métier | Tests Logiciels |
 |----|------------------|------------------|
